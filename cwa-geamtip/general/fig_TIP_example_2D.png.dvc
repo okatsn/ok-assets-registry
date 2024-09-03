@@ -3,4 +3,4 @@ outs:
     size: 81000
     hash: md5
     path: fig_TIP_example_2D.png
-    remote: geamtip-gdrive
+    remote: cwa-geamtip
