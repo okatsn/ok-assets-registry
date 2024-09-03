@@ -1,6 +1,6 @@
 outs:
-  - md5: 76be31eb9044d511ab783f0ff1dc3aee
-    size: 200638
-    hash: md5
-    path: fig_EQKTIP.png
-    remote: cwa-geamtip
+- md5: 238e80645ecb5cbcdf1116d507b75321
+  size: 430268
+  hash: md5
+  path: fig_EQKTIP.png
+  remote: cwa-geamtip
