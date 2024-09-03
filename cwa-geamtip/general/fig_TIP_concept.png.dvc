@@ -1,6 +1,6 @@
 outs:
-  - md5: 800a00790cf3e5ae060f678ac7e17099
-    size: 86845
-    hash: md5
-    path: fig_TIP_concept.png
-    remote: cwa-geamtip
+- md5: 285a1037855c7541c6afc1c38897584e
+  size: 86844
+  hash: md5
+  path: fig_TIP_concept.png
+  remote: cwa-geamtip
