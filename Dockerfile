@@ -1,4 +1,4 @@
-FROM okatsn/my-mini-explorer:latest as build-dvc
+FROM okatsn/my-mini-explorer:latest AS build-dvc
 
 ENV NB_UID=1000\
     NB_GID=100 \
