@@ -1,5 +1,6 @@
 outs:
-- md5: 51f9b0425dd21532f4cc0e903b9184db
-  size: 693272
-  hash: md5
-  path: AboutMe_formal.jpg
+  - md5: 51f9b0425dd21532f4cc0e903b9184db
+    size: 693272
+    hash: md5
+    path: AboutMe_formal.jpg
+    remote: invited-talks
