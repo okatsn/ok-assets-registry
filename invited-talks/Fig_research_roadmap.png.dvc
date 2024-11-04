@@ -1,6 +1,5 @@
 outs:
-- md5: c9e567810bb8c3effb3d18be41892110
-  size: 170606
-  hash: md5
-  path: Fig_research_roadmap.png
-  remote: invited-talks
+  - md5: c9e567810bb8c3effb3d18be41892110
+    size: 170606
+    hash: md5
+    path: Fig_research_roadmap.png
