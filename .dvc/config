@@ -1,6 +1,4 @@
-['remote "invited-talks"']
-    url = gdrive://1cvRsVAkSW-mrFe2aQQN90TX9cIJjL0tL
-['remote "cwa-geamtip"']
-    url = gdrive://1JDpkeqtwZPmOGV_yTWVu0rRHh4q-khx-
-['remote "stochastic-things"']
-    url = gdrive://11Nw2rfaT-qXYJZ7x8vDFuDTy_5Q9hgsY
+[core]
+    remote = ok-assets
+['remote "ok-assets"']
+    url = gdrive://1m-0A_2RecptTi3LF0OgOlcgltK2mPk_L

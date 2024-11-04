@@ -1,0 +1,5 @@
+outs:
+- md5: 5f52bed319027b2b18a050ccaff29c4f
+  size: 141016
+  hash: md5
+  path: train_test_partition.png
