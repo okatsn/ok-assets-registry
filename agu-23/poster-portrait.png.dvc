@@ -1,5 +1,5 @@
 outs:
-  - md5: ffac47c27f8ee236273d30201300c97d
-    size: 1670179
-    hash: md5
-    path: poster-portrait.png
+- md5: ffac47c27f8ee236273d30201300c97d
+  size: 1670179
+  hash: md5
+  path: poster-portrait.png

@@ -1,5 +1,5 @@
 outs:
-  - md5: ca05985a80fe6117b4ec15a48b4fa870
-    size: 45136
-    hash: md5
-    path: fig_TIP_concept.png
+- md5: ca05985a80fe6117b4ec15a48b4fa870
+  size: 45136
+  hash: md5
+  path: fig_TIP_concept.png

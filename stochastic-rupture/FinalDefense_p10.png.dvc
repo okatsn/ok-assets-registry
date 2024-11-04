@@ -1,5 +1,5 @@
 outs:
-  - md5: 0f204673cb11dc4c2334f12d190ed007
-    size: 234041
-    hash: md5
-    path: FinalDefense_p10.png
+- md5: 0f204673cb11dc4c2334f12d190ed007
+  size: 234041
+  hash: md5
+  path: FinalDefense_p10.png

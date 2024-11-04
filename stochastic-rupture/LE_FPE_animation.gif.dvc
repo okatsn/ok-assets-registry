@@ -1,5 +1,5 @@
 outs:
-  - md5: b2112497ec5205d4058bd061753cb8e0
-    size: 7934819
-    hash: md5
-    path: LE_FPE_animation.gif
+- md5: b2112497ec5205d4058bd061753cb8e0
+  size: 7934819
+  hash: md5
+  path: LE_FPE_animation.gif

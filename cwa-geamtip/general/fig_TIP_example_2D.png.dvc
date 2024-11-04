@@ -1,5 +1,5 @@
 outs:
-  - md5: d9625ba5f008ec0157550d64b1351f41
-    size: 81000
-    hash: md5
-    path: fig_TIP_example_2D.png
+- md5: d9625ba5f008ec0157550d64b1351f41
+  size: 81000
+  hash: md5
+  path: fig_TIP_example_2D.png
