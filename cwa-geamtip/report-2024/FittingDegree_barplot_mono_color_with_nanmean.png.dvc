@@ -1,0 +1,5 @@
+outs:
+- md5: 60882a0d197377b6fc40488b38c0e3e1
+  size: 126234
+  hash: md5
+  path: FittingDegree_barplot_mono_color_with_nanmean.png
